@@ -23,11 +23,11 @@ The program can calculate the expression including add, minus, mutiple and divis
     - Compile and run the program in IDE
 
 
-###Developers
-                Yiping Yan
+### Developers
+    Yiping Yan
    
     
-###Instructions
+### Instructions
    - User can enter the expression through the command line. for example: (7- (2.1+4))*4/2-1. Please note that only the bracket "(" and ")" will be accepted. "[", "]", "{", "}" are not accepted
    - It is unnecessary to input a "=" at the end of the expression.
    - By pressing the Enter button, the program will print out the answer.
