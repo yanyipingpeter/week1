@@ -1,5 +1,5 @@
 # week1
-Simple Calculator
+ConsoleApplication3
 =====================================================
 
 ### Development Enviroment
